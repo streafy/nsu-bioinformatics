@@ -16,7 +16,7 @@ MT-CO1
 | COX1 | *Chelus fimbriata* | 	бахромчатая черепаха, матамата ||
 | COX1 | *Omegophora armilla* | кольчатый фугу |
 | COX1 | *Colomesus asellus* | 	южноамериканский пресноводный фугу |
-| COX1 | *Iguana delicatissima* | малые антильские игуаны |
+| COX1 | *Iguana delicatissima* | малая антильская игуана |
 | COX1 | *Pipa pipa* | суринамская пипа |
 | COX1 | *Dibamus bourreti* | дибамус Бурре |
 | COX1 | *Scaphiopus holbrookii* | восточная лопатоногая чесночница |
