@@ -1,0 +1,42 @@
+application/gzip
+Started analysis of ERR16175435.fastq.gz
+Approx 5% complete for ERR16175435.fastq.gz
+Approx 10% complete for ERR16175435.fastq.gz
+Approx 15% complete for ERR16175435.fastq.gz
+Approx 20% complete for ERR16175435.fastq.gz
+Approx 25% complete for ERR16175435.fastq.gz
+Approx 30% complete for ERR16175435.fastq.gz
+Approx 35% complete for ERR16175435.fastq.gz
+Approx 40% complete for ERR16175435.fastq.gz
+Approx 45% complete for ERR16175435.fastq.gz
+Approx 50% complete for ERR16175435.fastq.gz
+Approx 55% complete for ERR16175435.fastq.gz
+Approx 60% complete for ERR16175435.fastq.gz
+Approx 65% complete for ERR16175435.fastq.gz
+Approx 70% complete for ERR16175435.fastq.gz
+Approx 75% complete for ERR16175435.fastq.gz
+Approx 80% complete for ERR16175435.fastq.gz
+Approx 85% complete for ERR16175435.fastq.gz
+Approx 90% complete for ERR16175435.fastq.gz
+Approx 95% complete for ERR16175435.fastq.gz
+Analysis complete for ERR16175435.fastq.gz
+[M::mm_idx_gen::0.411*0.68] collected minimizers
+[M::mm_idx_gen::0.478*0.90] sorted minimizers
+[M::main::1.585*0.34] loaded/built the index for 1 target sequence(s)
+[M::mm_idx_stat] kmer size: 15; skip: 10; is_hpc: 0; #seq: 1
+[M::mm_idx_stat::1.603*0.35] distinct minimizers: 838542 (98.18% are singletons); average occurrences: 1.034; average spacing: 5.352; total length: 4641652
+[M::main] Version: 2.31-r1302
+[M::main] CMD: tools/minimap2/minimap2 -d results/ERR16175435/work/reference.mmi results/ERR16175435/work/reference.fna
+[M::main] Real time: 1.616 sec; CPU: 0.571 sec; Peak RSS: 0.044 GB
+[M::main::1.105*0.14] loaded/built the index for 1 target sequence(s)
+[M::mm_mapopt_update::1.127*0.15] mid_occ = 12
+[M::mm_idx_stat] kmer size: 15; skip: 10; is_hpc: 0; #seq: 1
+[M::mm_idx_stat::1.137*0.16] distinct minimizers: 838542 (98.18% are singletons); average occurrences: 1.034; average spacing: 5.352; total length: 4641652
+[M::worker_pipeline::51.970*1.27] mapped 907270 sequences
+[M::main] Version: 2.31-r1302
+[M::main] CMD: tools/minimap2/minimap2 -a results/ERR16175435/work/reference.mmi data/raw/ERR16175435.fastq.gz
+[M::main] Real time: 51.993 sec; CPU: 66.037 sec; Peak RSS: 0.736 GB
+mapped_percent=98.89
+status=OK
+OK
+[bam_sort_core] merging from 0 files and 4 in-memory blocks...

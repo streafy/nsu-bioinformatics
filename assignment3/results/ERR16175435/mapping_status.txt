@@ -1,0 +1,4 @@
+flagstat=results/ERR16175435/flagstat.txt
+mapped_percent=98.89
+threshold=90.00
+status=OK

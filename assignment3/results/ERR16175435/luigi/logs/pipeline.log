@@ -1,0 +1,39 @@
+[M::mm_idx_gen::0.229*0.76] collected minimizers
+[M::mm_idx_gen::0.256*0.98] sorted minimizers
+[M::main::0.984*0.34] loaded/built the index for 1 target sequence(s)
+[M::mm_idx_stat] kmer size: 15; skip: 10; is_hpc: 0; #seq: 1
+[M::mm_idx_stat::0.994*0.35] distinct minimizers: 838542 (98.18% are singletons); average occurrences: 1.034; average spacing: 5.352; total length: 4641652
+[M::main] Version: 2.31-r1302
+[M::main] CMD: /mnt/c/Users/streafy/bioinformatics/assignment3/tools/minimap2/minimap2 -d /mnt/c/Users/streafy/bioinformatics/assignment3/results/ERR16175435/luigi/work/reference.mmi /mnt/c/Users/streafy/bioinformatics/assignment3/results/ERR16175435/luigi/work/reference.fna
+[M::main] Real time: 1.010 sec; CPU: 0.356 sec; Peak RSS: 0.045 GB
+application/gzip
+Started analysis of ERR16175435.fastq.gz
+Approx 5% complete for ERR16175435.fastq.gz
+Approx 10% complete for ERR16175435.fastq.gz
+Approx 15% complete for ERR16175435.fastq.gz
+Approx 20% complete for ERR16175435.fastq.gz
+Approx 25% complete for ERR16175435.fastq.gz
+Approx 30% complete for ERR16175435.fastq.gz
+Approx 35% complete for ERR16175435.fastq.gz
+Approx 40% complete for ERR16175435.fastq.gz
+Approx 45% complete for ERR16175435.fastq.gz
+Approx 50% complete for ERR16175435.fastq.gz
+Approx 55% complete for ERR16175435.fastq.gz
+Approx 60% complete for ERR16175435.fastq.gz
+Approx 65% complete for ERR16175435.fastq.gz
+Approx 70% complete for ERR16175435.fastq.gz
+Approx 75% complete for ERR16175435.fastq.gz
+Approx 80% complete for ERR16175435.fastq.gz
+Approx 85% complete for ERR16175435.fastq.gz
+Approx 90% complete for ERR16175435.fastq.gz
+Approx 95% complete for ERR16175435.fastq.gz
+Analysis complete for ERR16175435.fastq.gz
+[M::main::1.108*0.13] loaded/built the index for 1 target sequence(s)
+[M::mm_mapopt_update::1.122*0.14] mid_occ = 12
+[M::mm_idx_stat] kmer size: 15; skip: 10; is_hpc: 0; #seq: 1
+[M::mm_idx_stat::1.131*0.15] distinct minimizers: 838542 (98.18% are singletons); average occurrences: 1.034; average spacing: 5.352; total length: 4641652
+[M::worker_pipeline::54.493*1.20] mapped 907270 sequences
+[M::main] Version: 2.31-r1302
+[M::main] CMD: /mnt/c/Users/streafy/bioinformatics/assignment3/tools/minimap2/minimap2 -a /mnt/c/Users/streafy/bioinformatics/assignment3/results/ERR16175435/luigi/work/reference.mmi /mnt/c/Users/streafy/bioinformatics/assignment3/data/raw/ERR16175435.fastq.gz
+[M::main] Real time: 54.519 sec; CPU: 65.348 sec; Peak RSS: 0.736 GB
+[bam_sort_core] merging from 0 files and 4 in-memory blocks...

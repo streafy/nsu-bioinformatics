@@ -1,0 +1,5 @@
+Finished
+flagstat=/mnt/c/Users/streafy/bioinformatics/assignment3/results/ERR16175435/luigi/flagstat.txt
+mapped_percent=98.89
+threshold=90.00
+status=OK
