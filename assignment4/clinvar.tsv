@@ -1,0 +1,51 @@
+row	original_id	assembly	chrom	pos	ref	alt	status	variation_id	accession_version	canonical_spdi	germline_classification	review_status	last_evaluated	clinical_impact	oncogenicity	note	retrieved_date	url
+1	rs116331755	GRCh38	21	25603832	A	G	no_record										2026-11-02	https://www.ncbi.nlm.nih.gov/clinvar/?term=21%5Bchr%5D%20AND%2025603832%5Bchrpos38%5D
+2	rs7278168	GRCh38	21	25603910	C	T	no_record										2026-11-02	https://www.ncbi.nlm.nih.gov/clinvar/?term=21%5Bchr%5D%20AND%2025603910%5Bchrpos38%5D
+3	rs75377686	GRCh38	21	25606478	T	C	no_record										2026-11-02	https://www.ncbi.nlm.nih.gov/clinvar/?term=21%5Bchr%5D%20AND%2025606478%5Bchrpos38%5D
+4	rs114942253	GRCh38	21	32685836	C	T	classified	478324	VCV000478324.41	NC_000021.9:32685835:C:T	Likely benign	criteria provided, multiple submitters, no conflicts	2026/02/03 00:00				2026-11-02	https://www.ncbi.nlm.nih.gov/clinvar/variation/478324/
+5	rs4986958	GRCh38	21	33414987	C	G	classified	36376	VCV000036376.19	NC_000021.9:33414986:C:G	Benign/Likely benign	criteria provided, multiple submitters, no conflicts	2026/02/01 00:00				2026-11-02	https://www.ncbi.nlm.nih.gov/clinvar/variation/36376/
+6	rs115397760	GRCh38	21	43968034	C	T	no_record										2026-11-02	https://www.ncbi.nlm.nih.gov/clinvar/?term=21%5Bchr%5D%20AND%2043968034%5Bchrpos38%5D
+7	rs7289170	GRCh38	22	17181903	A	G	classified	402527	VCV000402527.23	NC_000022.11:17181902:A:G	Benign/Likely benign	criteria provided, multiple submitters, no conflicts	2026/02/04 00:00				2026-11-02	https://www.ncbi.nlm.nih.gov/clinvar/variation/402527/
+8	rs34000365	GRCh38	22	19353405	G	A	classified	714835	VCV000714835.7	NC_000022.11:19353404:G:A	Benign	criteria provided, multiple submitters, no conflicts	2019/12/31 00:00				2026-11-02	https://www.ncbi.nlm.nih.gov/clinvar/variation/714835/
+9	rs61735928	GRCh38	22	19383643	G	A	classified	777663	VCV000777663.6	NC_000022.11:19383642:G:A	Benign	criteria provided, single submitter	2019/12/31 00:00				2026-11-02	https://www.ncbi.nlm.nih.gov/clinvar/variation/777663/
+10	rs115157927	GRCh38	22	19385577	A	T	uncertain_significance	3525634	VCV003525634.1	NC_000022.11:19385576:A:T	Uncertain significance	criteria provided, single submitter	2024/10/08 00:00				2026-11-02	https://www.ncbi.nlm.nih.gov/clinvar/variation/3525634/
+11	rs5993890	GRCh38	22	19971306	G	A	classified	1242019	VCV001242019.3	NC_000022.11:19971305:G:A	Benign	criteria provided, multiple submitters, no conflicts	2021/05/04 00:00				2026-11-02	https://www.ncbi.nlm.nih.gov/clinvar/variation/1242019/
+12	rs114971216	GRCh38	22	19972976	C	T	classified	709199	VCV000709199.4	NC_000022.11:19972975:C:T	Benign	criteria provided, multiple submitters, no conflicts	2018/04/04 00:00				2026-11-02	https://www.ncbi.nlm.nih.gov/clinvar/variation/709199/
+13	rs76496156	GRCh38	22	19979039	C	T	classified	712281	VCV000712281.4	NC_000022.11:19979038:C:T	Benign	criteria provided, multiple submitters, no conflicts	2018/03/30 00:00				2026-11-02	https://www.ncbi.nlm.nih.gov/clinvar/variation/712281/
+14	rs1058399	GRCh38	22	19980020	G	A	classified	1290187	VCV001290187.3	NC_000022.11:19980019:G:A	Benign	criteria provided, multiple submitters, no conflicts	2021/05/05 00:00				2026-11-02	https://www.ncbi.nlm.nih.gov/clinvar/variation/1290187/
+15	rs33992092	GRCh38	22	19981972	G	T	classified	777061	VCV000777061.6	NC_000022.11:19981971:G:T	Benign	criteria provided, multiple submitters, no conflicts	2021/05/04 00:00				2026-11-02	https://www.ncbi.nlm.nih.gov/clinvar/variation/777061/
+16	rs115706909	GRCh38	22	21643926	C	T	no_record										2026-11-02	https://www.ncbi.nlm.nih.gov/clinvar/?term=22%5Bchr%5D%20AND%2021643926%5Bchrpos38%5D
+17	rs114712273	GRCh38	22	21962782	A	G	no_record										2026-11-02	https://www.ncbi.nlm.nih.gov/clinvar/?term=22%5Bchr%5D%20AND%2021962782%5Bchrpos38%5D
+18	rs5759612	GRCh38	22	23160983	A	G	no_record										2026-11-02	https://www.ncbi.nlm.nih.gov/clinvar/?term=22%5Bchr%5D%20AND%2023160983%5Bchrpos38%5D
+19	rs9680526	GRCh38	22	24183535	T	A	no_record										2026-11-02	https://www.ncbi.nlm.nih.gov/clinvar/?term=22%5Bchr%5D%20AND%2024183535%5Bchrpos38%5D
+20	rs115180746	GRCh38	22	24184189	C	G	no_record										2026-11-02	https://www.ncbi.nlm.nih.gov/clinvar/?term=22%5Bchr%5D%20AND%2024184189%5Bchrpos38%5D
+21	rs116768581	GRCh38	22	24185897	A	G	no_record										2026-11-02	https://www.ncbi.nlm.nih.gov/clinvar/?term=22%5Bchr%5D%20AND%2024185897%5Bchrpos38%5D
+22	rs115684319	GRCh38	22	24186268	C	T	classified	769156	VCV000769156.4	NC_000022.11:24186267:C:T	Benign	criteria provided, multiple submitters, no conflicts	2018/06/22 00:00				2026-11-02	https://www.ncbi.nlm.nih.gov/clinvar/variation/769156/
+23	rs114572804	GRCh38	22	24187599	C	T	no_record										2026-11-02	https://www.ncbi.nlm.nih.gov/clinvar/?term=22%5Bchr%5D%20AND%2024187599%5Bchrpos38%5D
+24	rs17884212	GRCh38	22	28745929	A	G	no_record										2026-11-02	https://www.ncbi.nlm.nih.gov/clinvar/?term=22%5Bchr%5D%20AND%2028745929%5Bchrpos38%5D
+25	rs114880151	GRCh38	22	30264324	G	C	no_record										2026-11-02	https://www.ncbi.nlm.nih.gov/clinvar/?term=22%5Bchr%5D%20AND%2030264324%5Bchrpos38%5D
+26	rs35764129	GRCh38	22	30460134	G	A	no_record										2026-11-02	https://www.ncbi.nlm.nih.gov/clinvar/?term=22%5Bchr%5D%20AND%2030460134%5Bchrpos38%5D
+27	rs2240345	GRCh38	22	30461386	A	C	no_record										2026-11-02	https://www.ncbi.nlm.nih.gov/clinvar/?term=22%5Bchr%5D%20AND%2030461386%5Bchrpos38%5D
+28	rs4820853	GRCh38	22	30468623	A	G	no_record										2026-11-02	https://www.ncbi.nlm.nih.gov/clinvar/?term=22%5Bchr%5D%20AND%2030468623%5Bchrpos38%5D
+29	rs114565111	GRCh38	22	30555495	G	C	uncertain_significance	4261361	VCV004261361.1	NC_000022.11:30555494:G:C	Uncertain significance	criteria provided, single submitter	2025/08/23 00:00				2026-11-02	https://www.ncbi.nlm.nih.gov/clinvar/variation/4261361/
+30	rs2267161	GRCh38	22	30557308	C	T	classified	1230435	VCV001230435.4	NC_000022.11:30557307:C:T	Benign	criteria provided, multiple submitters, no conflicts	2021/02/24 00:00				2026-11-02	https://www.ncbi.nlm.nih.gov/clinvar/variation/1230435/
+31	rs113930388	GRCh38	22	31089937	C	T	classified	712286	VCV000712286.4	NC_000022.11:31089936:C:T	Benign	criteria provided, multiple submitters, no conflicts	2018/09/11 00:00				2026-11-02	https://www.ncbi.nlm.nih.gov/clinvar/variation/712286/
+32	rs11913728	GRCh38	22	31091696	C	T	no_record										2026-11-02	https://www.ncbi.nlm.nih.gov/clinvar/?term=22%5Bchr%5D%20AND%2031091696%5Bchrpos38%5D
+33	rs116593437	GRCh38	22	31091747	G	A	classified	721065	VCV000721065.4	NC_000022.11:31091746:G:A	Benign	criteria provided, single submitter	2019/12/31 00:00				2026-11-02	https://www.ncbi.nlm.nih.gov/clinvar/variation/721065/
+34	rs34292278	GRCh38	22	31096795	C	T	no_classification	4457563	VCV004457563.1	NC_000022.11:31096794:C:T						evidence_only; no classification provided (VCV XML)	2026-11-02	https://www.ncbi.nlm.nih.gov/clinvar/variation/4457563/
+35	rs114531016	GRCh38	22	31267889	G	A	classified	769162	VCV000769162.4	NC_000022.11:31267888:G:A	Benign	criteria provided, multiple submitters, no conflicts	2018/05/31 00:00				2026-11-02	https://www.ncbi.nlm.nih.gov/clinvar/variation/769162/
+36	rs114246562	GRCh38	22	33274442	G	A	classified	703381	VCV000703381.17	NC_000022.11:33274441:G:A	Likely benign	criteria provided, multiple submitters, no conflicts	2025/07/11 00:00				2026-11-02	https://www.ncbi.nlm.nih.gov/clinvar/variation/703381/
+37	rs34292743	GRCh38	22	33304411	G	A	classified	95166	VCV000095166.28	NC_000022.11:33304410:G:A	Benign/Likely benign	criteria provided, multiple submitters, no conflicts	2026/02/01 00:00				2026-11-02	https://www.ncbi.nlm.nih.gov/clinvar/variation/95166/
+38	rs115686643	GRCh38	22	33316147	G	A	conflicting	902052	VCV000902052.11	NC_000022.11:33316146:G:A	Conflicting classifications of pathogenicity	criteria provided, conflicting classifications	2025/02/20 00:00				2026-11-02	https://www.ncbi.nlm.nih.gov/clinvar/variation/902052/
+39	rs114180421	GRCh38	22	38699942	A	G	no_record										2026-11-02	https://www.ncbi.nlm.nih.gov/clinvar/?term=22%5Bchr%5D%20AND%2038699942%5Bchrpos38%5D
+40	rs114704208	GRCh38	22	39044171	A	T	no_record										2026-11-02	https://www.ncbi.nlm.nih.gov/clinvar/?term=22%5Bchr%5D%20AND%2039044171%5Bchrpos38%5D
+41	rs55634318	GRCh38	22	39231625	G	C	classified	1188397	VCV001188397.19	NC_000022.11:39231624:G:C	Benign/Likely benign	criteria provided, multiple submitters, no conflicts	2026/01/29 00:00				2026-11-02	https://www.ncbi.nlm.nih.gov/clinvar/variation/1188397/
+42	rs17565	GRCh38	22	39231816	T	C	classified	725856	VCV000725856.33	NC_000022.11:39231815:T:C	Benign/Likely benign	criteria provided, multiple submitters, no conflicts	2026/01/15 00:00				2026-11-02	https://www.ncbi.nlm.nih.gov/clinvar/variation/725856/
+43	rs35429467	GRCh38	22	39374495	G	A	no_record										2026-11-02	https://www.ncbi.nlm.nih.gov/clinvar/?term=22%5Bchr%5D%20AND%2039374495%5Bchrpos38%5D
+44	rs115673469	GRCh38	22	39744223	A	G	classified	3845024	VCV003845024.1	NC_000022.11:39744222:A:G	Likely benign	criteria provided, single submitter	2025/01/27 00:00				2026-11-02	https://www.ncbi.nlm.nih.gov/clinvar/variation/3845024/
+45	rs114100360	GRCh38	22	39835936	C	A	no_record										2026-11-02	https://www.ncbi.nlm.nih.gov/clinvar/?term=22%5Bchr%5D%20AND%2039835936%5Bchrpos38%5D
+46	rs8139570	GRCh38	22	39887557	A	G	no_record										2026-11-02	https://www.ncbi.nlm.nih.gov/clinvar/?term=22%5Bchr%5D%20AND%2039887557%5Bchrpos38%5D
+47	rs115365592	GRCh38	22	40019319	C	T	no_record										2026-11-02	https://www.ncbi.nlm.nih.gov/clinvar/?term=22%5Bchr%5D%20AND%2040019319%5Bchrpos38%5D
+48	rs12330063	GRCh38	22	40019964	G	T	no_record										2026-11-02	https://www.ncbi.nlm.nih.gov/clinvar/?term=22%5Bchr%5D%20AND%2040019964%5Bchrpos38%5D
+49	rs5995794	GRCh38	22	40021816	A	G	no_record										2026-11-02	https://www.ncbi.nlm.nih.gov/clinvar/?term=22%5Bchr%5D%20AND%2040021816%5Bchrpos38%5D
+50	rs114043304	GRCh38	22	44920488	A	G	no_record										2026-11-02	https://www.ncbi.nlm.nih.gov/clinvar/?term=22%5Bchr%5D%20AND%2044920488%5Bchrpos38%5D
